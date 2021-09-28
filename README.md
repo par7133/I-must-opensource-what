@@ -1,2 +1,6 @@
-# I-must-opensource-what
-Different kinds of approaches exist to the opensource, with different endover.. This what changed my mind..
+## Everything?
+Not in my opinion.
+
+## I find instead enough bright the following quote:
+The open source offer is always settled towards the infrastructure/back-end part of your software. -- Brian
+
